@@ -4,8 +4,8 @@ import { dirname } from "path";
 import { fileURLToPath } from "url";
 import { defineConfig } from "vite";
 
-const PORT = process.env.PORT || 8081;
-const VitePort = 5173;
+const PORT = process.env.PORT || 3000;
+const VitePort = 4200;
 
 const proxyOptions = {
   target: `http://127.0.0.1:${PORT}`,

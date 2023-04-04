@@ -4,12 +4,12 @@
   "description": "Shopify Boilerplate Code written in React, Node, Express, MongoDB and GraphQL",
   "type": "module",
   "author": {
-    "name": "Harshdeep Singh Hura",
-    "url": "https://harshdeephura.com"
+    "name": "Ravi Patel",
+    "url": "https://webrexstudio.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kinngh/shopify-node-express-mongodb-app.git"
+    "url": "https://github.com/webrexRavi/SEA-MEAN.git"
   },
   "scripts": {
     "update": "ncu -u",
